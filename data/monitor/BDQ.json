@@ -1,0 +1,13 @@
+[{
+        "BDQNM": "1",
+        "BDQMC": "RabbitMQ"
+    },
+    {
+        "BDQNM": "2",
+        "BDQMC": "Kafka001"
+    },
+    {
+        "BDQNM": "3",
+        "BDQMC": "ActiveMQ"
+    }
+]

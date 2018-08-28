@@ -1,0 +1,37 @@
+[{
+    "DLBH": "001",
+    "DLMC": "SYZZ93",
+    "DLMS": "task",
+    "MQFUQ": "默认服务器",
+    "DLZT": "已启用",
+    "isPreset": "是",
+    "XXFX": "双向",
+    "XXMS": "点到点(P2P)模型",
+    "CJR": "小王",
+    "CJSJ": "2018-2-4"
+  },
+  {
+    "DLBH": "002",
+    "DLMC": "SYZ3Z9",
+    "DLMS": "task",
+    "MQFUQ": "默认服务器",
+    "DLZT": "未启用",
+    "isPreset": "是",
+    "XXFX": "发送",
+    "XXMS": "点到点(P2P)模型",
+    "CJR": "小张",
+    "CJSJ": "2018-8-13"
+  },
+  {
+    "DLBH": "003",
+    "DLMC": "SYZZ45",
+    "DLMS": "task",
+    "MQFUQ": "默认服务器",
+    "DLZT": "已启用",
+    "isPreset": "否",
+    "XXFX": "接收",
+    "XXMS": "点到点(P2P)模型",
+    "CJR": "小李",
+    "CJSJ": "2018-6-24"
+  }
+]
